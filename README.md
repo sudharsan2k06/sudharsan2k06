@@ -1,5 +1,5 @@
 # 💫 About Me:
-Am a BCA student aspiring to become Applied AI engineer and Data analyst 🔥
+Am a BCA student aspiring to become Applied AI engineer and Data analyst, and builds real Time Ai systems and backend system spealized in integration of AI features into  Full stack applications 🔥
 
 
 ## 🌐 Socials:
